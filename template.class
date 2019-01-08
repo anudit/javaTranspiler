@@ -1,0 +1,11 @@
+package /*<!--pkgName-->*/;
+
+import java.util.Scanner;
+
+public class /*<!--className-->*/ {
+	Scanner input = new Scanner(System.in);
+	public static void main(String[] args) {
+		/*<!--code-->*/
+	}
+
+}
